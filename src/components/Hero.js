@@ -9,7 +9,7 @@ const Hero = () => {
     <Wrapper className='section-center'>
       <article className='content'>
         <h1>design your <br />comfort zone</h1>
-        <p>Lorem</p>
+        <p>Lorem ipsum</p>
         <Link to='/products' className='btn hero-btn'>
           Show now
         </Link>
