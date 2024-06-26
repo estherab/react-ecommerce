@@ -65,7 +65,7 @@ const Wrapper = styled.section`
   #payment-request-button {
     margin-bottom: 32px;
   }
-  /* Buttons and links */
+
   button {
     background: #5469d4;
     font-family: Arial, sans-serif;
@@ -88,7 +88,7 @@ const Wrapper = styled.section`
     opacity: 0.5;
     cursor: default;
   }
-  /* spinner/processing state, errors */
+
   .spinner,
   .spinner:before,
   .spinner:after {
